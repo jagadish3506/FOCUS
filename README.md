@@ -36,6 +36,49 @@ The platform includes a focus timer, daily planner, AI tools, dashboard statisti
 - Clean interface  
 
 ---
+## 📸 Screenshots
+
+### 🏠 Home / Dashboard
+![Homepage 1](homepage_1.jpg)
+![Homepage 2](homepage_2.jpg)
+![Homepage 3](homepage_3.jpg)
+
+---
+
+### 📝 Planner
+![Planner](planner.jpg)
+
+---
+
+### 🤖 AI Tools
+
+#### AI Answer Assistant
+![AI Answer](ai_answer.jpg)
+
+#### AI Text Scanner
+![AI Text Scanner](ai_text_scan.jpg)
+
+#### AI File Summariser
+![AI File Summariser](ai_file_summariser.jpg)
+
+#### AI Timetable Generator
+![AI Timetable Generator 1](ai_time_table_generator_1.jpg)
+![AI Timetable Generator 2](ai_time_table_generator_2.jpg)
+
+#### AI Study Tips
+![AI Study Tips](ai_study_tips.jpg)
+
+---
+
+### 📅 Time Table Tasks
+![Time Table Tasks](time_table_tasks.jpg)
+
+---
+
+### 👤 Profile Page
+![Profile Page](profile.jpg)
+
+---
 
 ## 👥 Team Members
 - S. Prabhas  
