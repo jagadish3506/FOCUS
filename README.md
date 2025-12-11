@@ -37,8 +37,47 @@ The platform includes a focus timer, daily planner, AI tools, dashboard statisti
 
 ---
 
-## 🖼️ Screenshots (Upload here later)
-You can add images like this:
+## 📸 Screenshots
+
+### 🏠 Home / Dashboard
+![Homepage 1](homepage_1.png)
+![Homepage 2](homepage_2.png)
+![Homepage 3](homepage_3.png)
+
+---
+
+### 📝 Planner
+![Planner](planner.png)
+
+---
+
+### 🤖 AI Features
+
+#### AI Answer Assistant
+![AI Answer](ai_answer.png)
+
+#### AI Text Scanner
+![AI Text Scanner](ai_text_scan.png)
+
+#### AI File Summariser
+![AI File Summariser](ai_file_summariser.png)
+
+#### AI Time Table Generator
+![AI Time Table Generator 1](ai_time_table_generator_1.png)
+![AI Time Table Generator 2](ai_time_table_generator_2.png)
+
+#### AI Study Tips
+![AI Study Tips](ai_study_tips.png)
+
+---
+
+### 📅 Time Table Tasks
+![Tasks](time_table_tasks.png)
+
+---
+
+### 👤 Profile Page
+![Profile](profile.png)
 ---
 
 ## 👥 Team Members
